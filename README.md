@@ -35,7 +35,7 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-Upload your model to Hugging Face (Replace the text with angle brackets by appropriate strings):
+Upload your model to Hugging Face (replace the text with angle brackets by appropriate strings):
 ```
 python -m ab.hf.uploader </path/to/my_model> <HF_username/HF_repo> --token <HF_token>
 ```

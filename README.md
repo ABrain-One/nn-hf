@@ -1,4 +1,6 @@
 # Hugging Face Uploader
+<sub><a href='https://pypi.python.org/pypi/nn-hf'><img src='https://img.shields.io/pypi/v/nn-hf.svg'/></a> <a href="https://pepy.tech/project/nn-hf"><img alt="NN to Hugging Face" src="https://static.pepy.tech/badge/nn-hf"></a><br/>
+alias  <a href='https://pypi.python.org/pypi/nn-hugging-face'>nn-hugging-face</a></sub>
 
 To use this Hugging Face uploader, you’ll need a user access token with write permissions. If you don’t have one, you can easily generate it by following the instructions at https://huggingface.co/docs/hub/en/security-tokens
 

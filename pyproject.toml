@@ -3,7 +3,7 @@ requires = ['setuptools', 'wheel']
 build-backend = 'setuptools.build_meta'
 
 [project]
-name = 'to-hugging-face'
+name = 'nn-hugging-face'
 dynamic = ['version', 'dependencies']
 description = 'Uploader of Deep Model Weights to Hugging Face'
 readme = { file = 'README.md', content-type = 'text/markdown' }
@@ -24,8 +24,8 @@ authors = [{ name = 'ABrain One and contributors', email = 'AI@ABrain.one' }]
 
 [project.urls]
 Homepage = 'https://ABrain.one'
-Repository = 'https://github.com/ABrain-One/to-hugging-face'
-'Bug Tracker' = 'https://github.com/ABrain-One/to-hugging-face/issues'
+Repository = 'https://github.com/ABrain-One/nn-hugging-face'
+'Bug Tracker' = 'https://github.com/ABrain-One/nn-hugging-face/issues'
 
 [tool.setuptools.dynamic]
 version = { file = 'version' }
